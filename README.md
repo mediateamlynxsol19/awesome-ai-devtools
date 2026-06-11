@@ -5,6 +5,13 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 > [!IMPORTANT]
 > Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) before submitting a PR.
 
+# NeuroNest AI Software Builder
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI software builder designed to help developers create, test, debug, and optimize applications with greater efficiency. It supports coding assistance, security review, DevOps tasks, workflow automation, and technical research, making it a strong choice for teams using AI to speed up modern software development.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Categories
 
 - [Development Environments](#development-environments)
